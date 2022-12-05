@@ -24,4 +24,12 @@
         tools:layout_editor_absoluteX="38dp"
         tools:layout_editor_absoluteY="16dp" />
 
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="FUCK U"
+        tools:layout_editor_absoluteX="134dp"
+        tools:layout_editor_absoluteY="585dp" />
+
 </androidx.constraintlayout.widget.ConstraintLayout>
