@@ -17,11 +17,11 @@
 
     <ImageView
         android:id="@+id/imageView"
-        android:layout_width="288dp"
-        android:layout_height="306dp"
+        android:layout_width="373dp"
+        android:layout_height="501dp"
         android:background="#CA4545"
         app:srcCompat="@drawable/home_white"
-        tools:layout_editor_absoluteX="123dp"
+        tools:layout_editor_absoluteX="38dp"
         tools:layout_editor_absoluteY="16dp" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
