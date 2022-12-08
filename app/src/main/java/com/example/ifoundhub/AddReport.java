@@ -1,4 +1,4 @@
-package com.example.myapp;
+package com.example.ifoundhub;
 
 import androidx.appcompat.app.AppCompatActivity;
 
