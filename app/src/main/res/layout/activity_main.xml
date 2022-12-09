@@ -4,6 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+<<<<<<< Updated upstream
     tools:context=".MainActivity">
 
     <TextView
@@ -25,5 +26,9 @@
         app:srcCompat="@drawable/home_white"
         tools:layout_editor_absoluteX="62dp"
         tools:layout_editor_absoluteY="76dp" />
+=======
+    tools:context=".MainActivity"
+    android:background="">
+>>>>>>> Stashed changes
 
 </androidx.constraintlayout.widget.ConstraintLayout>
